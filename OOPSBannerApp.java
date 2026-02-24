@@ -1,4 +1,4 @@
-v/**
+/**
  * @author [SURIYA]
  * @version 1.0 UC2-Print OOPS Banner
  */
